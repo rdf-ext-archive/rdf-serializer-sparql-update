@@ -1,3 +1,5 @@
+# This package is no longer maintained and not compatible with the latest RDF-Ext version
+
 # rdf-serializer-sparql-update
 
 [![Build Status](https://travis-ci.org/rdf-ext/rdf-serializer-sparql-update.svg?branch=master)](https://travis-ci.org/rdf-ext/rdf-serializer-sparql-update)
